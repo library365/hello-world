@@ -1,2 +1,5 @@
 # hello-world
-git365
+
+https://guides.github.com/activities/hello-world/
+
+eod.
